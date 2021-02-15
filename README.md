@@ -1,4 +1,4 @@
-# Indonesian Hate Speech Detetction and Abusive Word Detectin
+# Indonesian Hate Speech and Abusive Word Detectin
 
 Adalah aplikasi pendeteksi teks Bahasa Indonesia yang menagndung kalimat ujaran kebencian dan kata-kata kasar.
 
